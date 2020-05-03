@@ -1,2 +1,2 @@
 # Cats_vs_dogs-prediction
-Deep learning models built with tensorflow and pytorch
+Model used to make predictions from a dataset of cats and dog images.
